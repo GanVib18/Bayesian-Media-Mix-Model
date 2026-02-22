@@ -41,9 +41,8 @@ PyMC · ArviZ · NumPy · Pandas · SciPy · Matplotlib
 ## Quickstart
 
 ```bash
-git clone https://github.com/yourname/maplethread-mmm
-cd maplethread-mmm
-pip install -r requirements.txt
+git clone https://github.com/yourname/Bayesian-Media-Mix-Model
+cd Bayesian-Media-Mix-Model
 
 python code/data_generation.py        # generates data/ outputs
 python code/single_region_model.py    # Phase 3
