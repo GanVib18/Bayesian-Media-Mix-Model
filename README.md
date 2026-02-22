@@ -26,7 +26,7 @@ A full-stack Bayesian Media Mix Modelling pipeline built from scratch for a fict
 - **Consistent finding across all five markets**: reallocate from Social → Paid Search, estimated uplift of 8–15% revenue with no change to total budget
 - Budget response curves show all markets are in aggregate diminishing returns — a 25% budget cut produces a less-than-proportional revenue decline
 
-<img src="https://github.com/GanVib18/Regime-Switching-Asset-Allocation/blob/main/outputs/charts/fig_parameter_recovery_hier.png">
+<img src="https://github.com/GanVib18/Bayesian-Media-Mix-Model/blob/main/outputs/charts/fig_parameter_recovery_hier.png">
 
 ---
 
