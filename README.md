@@ -1,4 +1,4 @@
-# MapleThread MMM
+# Bayesian Media Mix Model
 
 A full-stack Bayesian Media Mix Modelling pipeline built from scratch for a fictional outdoor apparel brand — five global markets, four media channels, three years of weekly data.
 
